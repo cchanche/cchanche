@@ -2,7 +2,7 @@
 <h3 align="center">IT Engineer</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=cchanche&label=Profile%20views&color=0e75b6&style=flat-square" alt="cchanche" />
+  <img src="https://komarev.com/ghpvc/?username=cchanche&label=Profile%20views%20this%20week&color=0e75b6&style=flat-square" alt="cchanche" />
 </p>
 
 I'm passionate about almost anything in tech. ✨
