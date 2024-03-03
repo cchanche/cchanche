@@ -7,215 +7,53 @@
 
 I'm passionate about almost anything in tech. ✨
 
-I graduated from engineering school in 2021, and have been working in Paris, France since. 
+I graduated from engineering school in 2021, and have been working in Paris, France since.
 
 For me, a healthy work schedule includes :
+
 - 🔨 build great tech using my favorite tech-stack (details below 👇)
 - 🙋 interact with experienced and inspiring people
 - 👌 contribute to the online tech community
-- 📖 learning new stuff
+- 📖 learn new stuff
 
 > Most of my work is not available publicly on github.
 
 ---
+
 - 🔭 I’m currently working as a freelance software engineer.
 
 - 📫 How to reach me : **clement.chanchevrier@gmail.com**
 
-
---- 
-## My stack
-### Frontend
-
-<img src="https://github.com/cchanche/cchanche/assets/67628843/7f89c114-9793-4fc7-93a1-5c291723e156" alt="react" height="50" />
-
-<img src="https://github.com/cchanche/cchanche/assets/67628843/28e98615-d205-466f-8814-b7f356c09863" alt="react" height="50" />
-
-
-
-### Backend
-- NestJs
-- EJS
-- MJML
-
-### Build-tools
-- ViteJs (frontend)
-- Rollup (librairies)
-- SWC (NestJs)
-
-## CI / CD
-- Github Actions
-- Jira
-- Figma
-
-## Cloud
-- AWS 
-
-## Skills
-### Frameworks
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" /> 
-</a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" /> 
-</a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="35" /> 
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40" /> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" /> 
-</a> 
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" alt="materialui" width="35" /> 
-</a>
-
-### Languages
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" /> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" /> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" /> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" /> 
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="35" /> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" /> 
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" /> 
-</a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" /> 
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" /> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" /> 
-</a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" /> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" /> 
-</a> 
-
-
-### Tools and environements
-<a href="https://www.github.com/features/actions" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" width="35" /> 
-</a> 
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="35" /> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" /> 
-</a>
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="35" /> 
-</a>  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="35" /> 
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" /> 
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" /> 
-</a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="35" /> 
-</a> 
-
-### Softwares
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/adobe-illustrator.svg" alt="illustrator" width="35" /> 
-</a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/adobe-photoshop.svg" alt="photoshop" width="35" /> 
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" /> 
-</a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" /> 
-</a>
-
 ---
 
-## Technologies I would like to learn
-<p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" height="40" /> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" /> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" /> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" /> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" /> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" /> 
-  </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" /> 
-  </a> 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="35" /> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" /> 
-  </a> 
-  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="35" /> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="35" /> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="50" /> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" /> 
-  </a> 
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="35" /> 
-  </a> 
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="35" /> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" /> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" /> 
-  </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" /> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" /> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" /> 
-  </a> 
-</p>
+## My stack
+
+| Fronted                                                |                                     |                                                                                 |
+| ------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="./assets/react.png" alt="react" height="35"> | [**React**](https://react.dev/)     | Flexible, unopininated and great ecosystem.                                     |
+| <img src="./assets/mui.png" alt="mui" height="35">     | [**Material UI**](https://mui.com/) | Large component library with overridable default UI and handy styling utilities |
+
+| Backend                                                 |                                               |                                                       |
+| ------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
+| <img src="./assets/nestjs.png" alt="react" height="35"> | [**NestJs**](https://nestjs.com/)             | Robust, elegant and extensible                        |
+| <img src="./assets/psql.png" alt="react" height="35">   | [**PostgreSQL**](https://www.postgresql.org/) | Standard SQL on steroids, integrates well with NestJs |
+
+| Build-tools                                             |                                     |                                                                                           |
+| ------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="./assets/vite.png" alt="react" height="35">   | [**Vite**](https://nestjs.com/)     | Great performance, great developer-experience & extensible (for frontend apps)            |
+| <img src="./assets/rollup.png" alt="react" height="35"> | [**Rollup**](https://rollupjs.org/) | Simple, performant and great configuration options & plugins (for small native libraries) |
+| <img src="./assets/swc.png" alt="react" height="35">    | [**SWC**](https://swc.rs/)          | Extremely fast compiler (alternative to webpack for NestJs)                               |
+
+| CI / CD                                                     |                                                           |                                                                               |
+| ----------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="./assets/gh-actions.png" alt="react" height="35"> | [**GitHub Actions**](https://github.com/features/actions) | Ease of use and great flexibility                                             |
+| <img src="./assets/jira.png" alt="react" height="35">       | [**Jira**](https://www.atlassian.com/fr/software/jira)    | Misses no feature and comes with a generous free-tier. Integrates with Github |
+| <img src="./assets/figma.png" alt="react" height="35">      | [**Figma**](https://www.figma.com/)                       | Adobe is that you ? Nervermind, it's free.                                    |
+
+| Cloud                                                       |                    |                                                             |
+| ----------------------------------------------------------- | ------------------ | ----------------------------------------------------------- |
+| <img src="./assets/ecs.png" alt="react" height="35">        | **AWS ECS**        | Kubernetes, but simple                                      |
+| <img src="./assets/cdk.png" alt="react" height="35">        | **AWS CDK**        | _Infrastructure-as-typescript_ with great community support |
+| <img src="./assets/s3.png" alt="react" height="35">         | **AWS S3**         | Cloud-storage                                               |
+| <img src="./assets/rds.png" alt="react" height="35">        | **AWS RDS**        | Cloud-storage, but it's rows and columns                    |
+| <img src="./assets/cloudfront.png" alt="react" height="35"> | **AWS Cloudfront** | CDN distributions made simple                               |
