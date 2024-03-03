@@ -7,20 +7,50 @@
 
 I'm passionate about almost anything in tech. ✨
 
-I graduated from a french engineering school in 2021, and have been working in Paris, France since then. For me, a healthy working schedule includes :
-- 📖 learning new stuff
+I graduated from engineering school in 2021, and have been working in Paris, France since. 
+
+For me, a healthy work schedule includes :
+- 🔨 build great tech using my favorite tech-stack (details below 👇)
 - 🙋 interact with experienced and inspiring people
 - 👌 contribute to the online tech community
+- 📖 learning new stuff
 
 > Most of my work is not available publicly on github.
 
 ---
-- 🔭 I’m currently working as a software engineer. [(job4.io)](job4.io)
+- 🔭 I’m currently working as a freelance software engineer.
 
 - 📫 How to reach me : **clement.chanchevrier@gmail.com**
 
 
 --- 
+## My stack
+### Frontend
+
+<img src="https://github.com/cchanche/cchanche/assets/67628843/7f89c114-9793-4fc7-93a1-5c291723e156" alt="react" height="50" />
+
+<img src="https://github.com/cchanche/cchanche/assets/67628843/28e98615-d205-466f-8814-b7f356c09863" alt="react" height="50" />
+
+
+
+### Backend
+- NestJs
+- EJS
+- MJML
+
+### Build-tools
+- ViteJs (frontend)
+- Rollup (librairies)
+- SWC (NestJs)
+
+## CI / CD
+- Github Actions
+- Jira
+- Figma
+
+## Cloud
+- AWS 
+
 ## Skills
 ### Frameworks
 
